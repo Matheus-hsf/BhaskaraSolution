@@ -1,0 +1,8 @@
+C:\Users\Pichau\Desktop\AT\BhaskaraSolution - Pronto\BhaskaraSolution\bin\Debug\BhaskaraSolution.exe
+C:\Users\Pichau\Desktop\AT\BhaskaraSolution - Pronto\BhaskaraSolution\bin\Debug\BhaskaraSolution.pdb
+C:\Users\Pichau\Desktop\AT\BhaskaraSolution - Pronto\BhaskaraSolution\obj\x86\Debug\BhaskaraSolution.csprojResolveAssemblyReference.cache
+C:\Users\Pichau\Desktop\AT\BhaskaraSolution - Pronto\BhaskaraSolution\obj\x86\Debug\WindowsFormsApplication1.Bhaskár.resources
+C:\Users\Pichau\Desktop\AT\BhaskaraSolution - Pronto\BhaskaraSolution\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Pichau\Desktop\AT\BhaskaraSolution - Pronto\BhaskaraSolution\obj\x86\Debug\BhaskaraSolution.csproj.GenerateResource.Cache
+C:\Users\Pichau\Desktop\AT\BhaskaraSolution - Pronto\BhaskaraSolution\obj\x86\Debug\BhaskaraSolution.exe
+C:\Users\Pichau\Desktop\AT\BhaskaraSolution - Pronto\BhaskaraSolution\obj\x86\Debug\BhaskaraSolution.pdb
